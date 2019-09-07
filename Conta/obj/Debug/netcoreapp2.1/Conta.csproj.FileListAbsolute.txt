@@ -1,0 +1,11 @@
+C:\Users\franc\source\repos\Conta\Conta\bin\Debug\netcoreapp2.1\Conta.deps.json
+C:\Users\franc\source\repos\Conta\Conta\bin\Debug\netcoreapp2.1\Conta.runtimeconfig.json
+C:\Users\franc\source\repos\Conta\Conta\bin\Debug\netcoreapp2.1\Conta.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Conta\Conta\bin\Debug\netcoreapp2.1\Conta.dll
+C:\Users\franc\source\repos\Conta\Conta\bin\Debug\netcoreapp2.1\Conta.pdb
+C:\Users\franc\source\repos\Conta\Conta\obj\Debug\netcoreapp2.1\Conta.csprojAssemblyReference.cache
+C:\Users\franc\source\repos\Conta\Conta\obj\Debug\netcoreapp2.1\Conta.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Conta\Conta\obj\Debug\netcoreapp2.1\Conta.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Conta\Conta\obj\Debug\netcoreapp2.1\Conta.AssemblyInfo.cs
+C:\Users\franc\source\repos\Conta\Conta\obj\Debug\netcoreapp2.1\Conta.dll
+C:\Users\franc\source\repos\Conta\Conta\obj\Debug\netcoreapp2.1\Conta.pdb
